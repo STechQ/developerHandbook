@@ -1,4 +1,3 @@
-# Developer Handbook
 
 #### Development Cycle 
 - [Branch Management][df1]
