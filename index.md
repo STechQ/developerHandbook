@@ -1,7 +1,9 @@
 
-#### Development Cycle 
-- [Branch Management][df1]
+### Development Cycle
 
-[df1]: </developerHandbook/branchmanagement>
+ - [Branch Management][df1]
+
+
+ [df1]: </developerHandbook/branchmanagement>
 
 
